@@ -17,9 +17,11 @@ The Overview section should provide a snapshot of the overall HR metrics, includ
 1.Display the total number of hired employees, active employees, and terminated employees.
 
 --Active
+
 ![Image](https://github.com/user-attachments/assets/c18bca00-bd21-4edc-812f-b08064890a87)
 
 --Hired & Terminated
+
 ![Image](https://github.com/user-attachments/assets/20f5049d-81b4-4717-901c-ced463dfc175)
 
 2.Visualize the total number of hired and terminated employees over the years.
@@ -424,3 +426,12 @@ print(df)
 # Save to CSV
 df.to_csv('HumanResources.csv', index=False)
 ```
+
+## My Tableau Profile Link:
+https://public.tableau.com/app/profile/smrutisikha.sahoo/vizzes
+
+## Link of this project:
+https://public.tableau.com/app/profile/smrutisikha.sahoo/viz/HRDashboardsummarycustomer_17431729271230/HRCustomer
+
+## My Linkedin Profile:
+https://www.linkedin.com/in/smrutisikha-sahoo
